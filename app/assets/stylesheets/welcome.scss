@@ -1,0 +1,33 @@
+ *{
+ 	font-family: verdana
+ }
+ h1 {
+	font-family: verdana, sans-serif;
+	text-align: center;
+	color: grey
+}
+h2 {
+	text-align: center;
+	color: grey
+
+}
+a {
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Verdana;
+	color: grey
+}
+a:hover{color:black}
+table {
+	border:2px solid grey;
+	border-radius: 5px;
+	border-collapse: collapse;
+  th {
+  	border:1px solid grey;
+  	padding: 5px;
+  }
+  td {
+  	border:1px solid grey;
+  	padding: 5px;
+  }
+}
